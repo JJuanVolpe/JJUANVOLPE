@@ -1,4 +1,4 @@
-### Hello my name is juan, I am currently focused on the study and development of software. 👋
+# Hello my name is juan, I am currently focused on the study and development of software. 👋
 
 ## About Me  🌌👾
 I am Argentinean, I am 22 years old, 
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 -->
 
 
-# 🔭 I am currently working in a web system with university colleagues.
+### 🔭 I am currently working in a web system with university colleagues.
 
-# 🌱 Actually learning about Machine Learning and their unsupervised learning techniques.
+### 🌱 Actually learning about Machine Learning and their unsupervised learning techniques.
