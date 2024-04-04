@@ -1,25 +1,27 @@
 ### Hello my name is juan, I am currently focused on the study and development of software. 👋
 
 ## About Me  🌌👾
-I am Argentinean, I am 22 years old, I am currently studying a degree in computer science at the university.
+I am Argentinean, I am 22 years old, 
+I am currently studying a degree in computer science at the university.
 I like to investigate certain technologies and develop new skills related to coding. 💻 ☕
 
-# Skills 🧰
+# Skills 🧰 
 
 - Java
 - Python
 - HTML/CSS/Js
-- Pandas ㊙️
-- React & bit of Angular 🐇
+- Pandas 
+- React & bit of Angular 
 
-#Experience
+# Experience :ninja: 🌟
 
-- I was Web Developer for a company for 4 months.
- In which developed some features & updates like views, test and more.
+- Software Engineer Jr. in a food service company
+ In which developed some features & updates like views, tests and more.
 - Did several courses about advanced topics using Java and tools with it like Hibernate, Spring, Mockito, Antlr, Angular...
 - I collaborated in small and medium programs or systems required as exercises
- (RPG game with python, Scrabble, grammar refactoring, question game with datasets).  
-           
+ (RPG game with python, Scrabble, grammar refactoring and others, question game with datasets).  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanvolpe&hide_progress=true)
 <!--
 **JJuanVolpe/JJUANVOLPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,5 +36,6 @@ Here are some ideas to get you started:
 -->
 
 
-🔭 I am currently working on a requirements elicitation and development project for a web-based system with university colleagues.
-🌱 I’m currently learning about Machine Learning and their unsupervised learning techniques
+# 🔭 I am currently working in a web system with university colleagues.
+
+# 🌱 Actually learning about Machine Learning and their unsupervised learning techniques.
