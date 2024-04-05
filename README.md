@@ -11,7 +11,7 @@ I like to investigate certain technologies and develop new skills related to cod
 - Python
 - HTML/CSS/Js
 - Pandas 
-- React & bit of Angular 
+- React & bit of AngularJS
 
 # Experience :ninja: 🌟
 
