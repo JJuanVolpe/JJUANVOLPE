@@ -1,4 +1,4 @@
-# Hello my name is juan, I am currently focused on the study and development of software. 👋
+# Currently focused on the study and development of software.
 
 ## About Me  🌌👾
 I am Argentinean, I am 22 years old, 
@@ -11,7 +11,7 @@ I like to investigate certain technologies and develop new skills related to cod
 - Python
 - HTML/CSS/Js
 - Pandas 
-- React & bit of AngularJS
+- Queries & databases (MySQL, SQLite)
 
 # Experience :ninja: 🌟
 
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 -->
 
 
-### 🔭 I am currently working in a web system with university colleagues.
+### 🔭 I am currently designing in a web system.
 
-### 🌱 Actually learning about Machine Learning and their unsupervised learning techniques.
+### 🌱 Actually learning about Machine Learning.
