@@ -15,9 +15,9 @@ I like to investigate certain technologies and develop new skills related to cod
 
 # Experience :ninja: 🌟
 
-- Software Engineer Jr. in a food service company
+> Software Engineer Jr. in a food service company
  In which developed some features & updates like views, tests and more.
-- Did several courses about advanced topics using Java and tools with it like Hibernate, Spring, Mockito, Antlr, Angular...
+> Did several courses about advanced topics using Java and tools with it like Hibernate, Spring, Mockito, Antlr, Angular...
 - I collaborated in small and medium programs or systems required as exercises
  (RPG game with python, Scrabble, grammar refactoring and others, question game with datasets).  
 
