@@ -6,7 +6,9 @@ I am currently studying a degree in computer science at the university.
 I like to investigate certain technologies and develop new skills related to coding. 💻 ☕
 
 # Skills 🧰 
-
+<p align="center">
+    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+</p>
 - Java
 - Python
 - HTML/CSS/Js
