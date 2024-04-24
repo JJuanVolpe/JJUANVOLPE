@@ -17,7 +17,7 @@ I like to investigate certain technologies and develop new skills related to cod
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanvolpe&hide_progress=true)
 
 
-# Experience  🌟
+# Experience 💻 🌟
 
 > - Software Engineer Jr. in a attention Service Company
  In which developed some features & updates like views, tests and more.
