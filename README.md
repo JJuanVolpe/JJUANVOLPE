@@ -23,7 +23,9 @@ I like to investigate certain technologies and develop new skills related to cod
 > - I collaborated in small and medium programs or systems required as exercises
  (RPG game with python, Scrabble, grammar refactoring and others, question game with datasets).  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanvolpe&hide_progress=true)
+<div align="center">
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanvolpe&hide_progress=true)
+</div>
 <!--
 **JJuanVolpe/JJUANVOLPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
