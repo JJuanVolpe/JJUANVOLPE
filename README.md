@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 -->
 
 
-### 🔭 I am currently designing in a web system.
+### 🔭 I am currently designing a web system.
 
-### 🌱 Actually learning about Machine Learning.
+### 🌱 Actually learning about Machine Learning & Parallel Programming.
 
 
 
