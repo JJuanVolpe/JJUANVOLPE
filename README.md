@@ -6,16 +6,14 @@ I am currently studying a degree in computer science at the university.
 I like to investigate certain technologies and develop new skills related to coding. 💻 ☕
 
 # Skills 🧰 
-<p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
-</p>
+
 - Java
 - Python
 - HTML/CSS/Js
 - Pandas 
 - Queries & databases (MySQL, SQLite)
 
-# Experience :ninja: 🌟
+# Experience  🌟
 
 > - Software Engineer Jr. in a attention Service Company
  In which developed some features & updates like views, tests and more.
@@ -43,3 +41,9 @@ Here are some ideas to get you started:
 ### 🔭 I am currently designing in a web system.
 
 ### 🌱 Actually learning about Machine Learning.
+
+
+
+<p align="center">
+    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+</p>
