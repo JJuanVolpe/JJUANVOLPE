@@ -12,8 +12,6 @@ I like to investigate certain technologies and develop new skills related to pro
 - HTML/CSS/Js
 - SQL with a few of experience about Database Management
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanvolpe&hide_progress=true)
-
 
 # Experience 💻 🌟
 
@@ -24,6 +22,10 @@ I like to investigate certain technologies and develop new skills related to pro
 
 > - I collaborated in small and medium programs or systems required as exercises
  (RPG game with python, Scrabble, grammar refactoring and others, question game with datasets).  
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanvolpe&hide_progress=true)
 
 <!--
 **JJuanVolpe/JJUANVOLPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
