@@ -1,18 +1,16 @@
-# Currently focused on the study and development of software.
+# Currently focused on study and some apps development.
 
 ## About Me  🌌👾
-I am Argentinean, I am 22 years old, 
-I am currently studying a degree in computer science at the university.
-I like to investigate certain technologies and develop new skills related to coding. 💻 ☕
+I am 22 years old and currently studying a degree in computer science at the university.
+I like to investigate certain technologies and develop new skills related to programming. 💻 ☕
 
 # Skills 🧰 
 
 - Java
 - Python
+- Pattern Design & Refactoring
 - HTML/CSS/Js
-- Pandas 
-- Queries & databases (MySQL, SQLite)
-
+- SQL with a few of experience about Database Management
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanvolpe&hide_progress=true)
 
@@ -41,9 +39,9 @@ Here are some ideas to get you started:
 -->
 
 
-### 🔭 I am currently designing a web system.
+### 🔭 Currently developing a project in group with Django.
 
-### 🌱 Actually learning about Machine Learning & Parallel Programming.
+### 🌱 Actually learning some about Machine Learning & Parallel Programming.
 
 
 
