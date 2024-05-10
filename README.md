@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### 🔭 Currently developing a project in group with Django.
 
-### 🌱 Actually learning some about Machine Learning & Parallel Programming.
+### 🌱 Actually learning about Machine Learning techniques.
 
 
 
