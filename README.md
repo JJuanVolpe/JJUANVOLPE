@@ -49,5 +49,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img width="200" src="https://en.wikipedia.org/wiki/Artificial_intelligence#/media/File:Dall-e_3_(jan_'24)_artificial_intelligence_icon.png" alt="Material Bread logo">
+    <img width="200" src="https://camo.githubusercontent.com/en.wikipedia.org/wiki/File:ArtificialIntelligence-VideoGame.svg" alt="Inteligencia Artificial">
 </p>
+
