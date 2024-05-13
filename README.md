@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img width="200" src="https://en.wikipedia.org/wiki/Artificial_intelligence#/media/File:Dall-e_3_(jan_'24)_artificial_intelligence_icon.png" alt="Inteligencia Artificial">
+    <img width="200" src="https://camo.githubusercontent.com/9a498917aee0273edcc5dec773332e89cd95bce11251171de2a9636e7f4f358d/687474703a2f2f6d6174657269616c2d62726561642e6f72672f6c6f676f2d736861646f772e737667" alt="Inteligencia Artificial">
 </p>
 
