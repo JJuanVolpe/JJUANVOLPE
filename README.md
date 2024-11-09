@@ -6,11 +6,11 @@
 
 # Skills 🧰 
 
-- Java
-- Python
-- Pattern Design & Refactoring
-- HTML/CSS/Js
-- SQL with a few of experience about Database Management
+> - Java
+> - Python
+> - Pattern Design & Refactoring
+> - HTML/CSS/Js
+> - SQL with a few of experience about Database Management
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanvolpe&hide_progress=true)
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 -->
 
 
-### 🔭 Currently developing a project in group with Flask.
+> ### 🔭 Currently developing a project in group with Flask.
 
-### 🌱 Actually learning about vector spaces.
+> ### 🌱 Actually learning about vector spaces.
