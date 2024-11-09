@@ -2,7 +2,6 @@
 
 ## About Me  
 > I am 22 years old and currently studying a degree in computer science at the university
-
 > I enjoy researching certain technologies related to software development
 
 # Skills 🧰 
