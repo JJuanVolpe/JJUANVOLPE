@@ -4,13 +4,14 @@
 > I am 22 years old and currently studying a degree in computer science at the university
 > I enjoy researching certain technologies related to software development
 
-# Skills 🧰 
+# Knowledge of advanced concepts 
 
 > - Java
 > - Python
 > - Pattern Design & Refactoring
 > - HTML/CSS/Js
-> - SQL with a few of experience about Database Management
+> - SQL
+> - CI/CD and Testing
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanvolpe&hide_progress=true)
@@ -25,10 +26,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
+## 💬 last practiced
 
+> - Flask
+> - Django
+> - ML with RapidMiner & Python
 
-> ### 🔭 Currently developing a project in group with Flask.
+## ⚡ learning about 
 
-> ### 🌱 Actually learning about vector spaces.
+> - Linux, Bash & SO
+> - Python & libs
+> - Networks
+> - DDBB Management
