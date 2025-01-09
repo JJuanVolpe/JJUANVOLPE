@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
-## 💬 last practiced
+## 💬 Last practiced
 
-> - Flask
-> - Django
+> - Flask & Django
+> - Discrete maths
 > - ML with RapidMiner & Python
 
-## ⚡ learning about 
+## ⚡ Learning about 
 
 > - Linux, Bash & SO
 > - Python & libs
