@@ -4,7 +4,7 @@
 > I am 22 years old and currently studying a degree in computer science at the university
 > I enjoy researching certain technologies related to software development
 
-# Knowledge of advanced concepts 
+## Knowledge of advanced concepts 
 
 > - Java
 > - Python
