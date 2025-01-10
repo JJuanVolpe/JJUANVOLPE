@@ -8,10 +8,11 @@
 
 > - Java
 > - Python
-> - Pattern Design & Refactoring
-> - HTML/CSS/Js
+> - Design patterns
+> - Testing & Refactoring
+> - Web Development
 > - SQL
-> - CI/CD and Testing
+> - CI/CD: Giitlab, Docker & Jenkins
 
 
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
