@@ -39,10 +39,11 @@ Here are some ideas to get you started:
 
 ## ⚡ Learning about 
 
+> - AWS Lambda Functions using Python
 > - Linux, Bash & SO
-> - Python & libs
 > - Networks
 > - DDBB Management
+
 
 
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
