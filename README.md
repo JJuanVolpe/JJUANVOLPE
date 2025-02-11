@@ -1,7 +1,5 @@
-# Currently studying and always learning
-
 ## About Me  
-> I am 22 years old and currently studying a degree in computer science at the university
+> I am 23 years old and currently studying a degree in computer science at the university
 > I enjoy researching certain technologies related to software development
 
 ## Knowledge about
@@ -33,17 +31,8 @@ Here are some ideas to get you started:
 -->
 ## 💬 Last practiced
 
-> - Flask & Django
-> - Discrete maths
-> - ML with RapidMiner & Python
-
-## ⚡ Learning about 
-
-> - AWS Lambda Functions using Python
-> - Linux, Bash & SO
-> - Networks
-> - DDBB Management
-
+> - Springboot & Angular
+> - Flask & Python
 
 
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
