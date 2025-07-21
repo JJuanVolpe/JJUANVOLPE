@@ -1,6 +1,8 @@
 ## About Me  
 > Currently studying a degree in computer science at the university
 
+<img src="{https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" />
+
 ## Knowledge about
 
 > - Java
@@ -9,8 +11,6 @@
 > - Testing & Refactoring
 > - Web Development
 > - SQL
-
-<img src="{https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanVolpe&hide_progress=true&theme=tokyonight)
 
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 > - Node & Express
 > - C & Python
 
-
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,5 +39,4 @@ Here are some ideas to get you started:
 ![MySql Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSql Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 📫 How to reach me:
-- _💬 Write me a message to my personal mail: juan.voolpe@gmail.com_
+- 📫 How to reach me: _Write me a message to my personal mail: juan.voolpe@gmail.com_ 💬
