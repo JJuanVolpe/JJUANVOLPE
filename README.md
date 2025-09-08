@@ -56,17 +56,21 @@
 ---
 
 ## 🛠️ Professional Skills
-🔹 **Full-Stack development** using MVC  
-🔹 **RESTful APIs & Microservices** design and integration  
-🔹 **Testing & Refactoring** for maintainable software  
-🔹 **Proactive task management & monitoring**  
+- 🔹 **Full-Stack development** using MVC  
+- 🔹 **RESTful APIs & Microservices** design and integration  
+- 🔹 **Testing & Refactoring** for maintainable software  
+- 🔹 **Proactive task management & monitoring**  
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJuanVolpe&hide_progress=true&theme=tokyonight)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JJuanVolpe&show_icons=true&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -74,4 +78,4 @@
 
 💡 Feel free to reach out:  
 📧 [juan.voolpe@gmail.com](mailto:juan.voolpe@gmail.com)  
-🌐 [LinkedIn]([https://www.linkedin.com/in/juan-volpe-program/)   
+🌐 [LinkedIn](https://www.linkedin.com/) _(add your link here)_  
