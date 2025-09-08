@@ -22,7 +22,7 @@
 ![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🏗️ Architecture & Tools
 ![MVC Badge](https://img.shields.io/badge/MVC-6DB33F?style=for-the-badge&logoColor=white)
