@@ -1,4 +1,4 @@
-# 👨‍💻 Juan Volpe  
+# :beginner: About me  
 
 🎓 Currently pursuing **Computer Science Degree** (Advanced student – 4th year)  
 📍 Passionate about **Full-Stack Development, Software Architecture & Databases**  
@@ -59,4 +59,4 @@
 
 💡 Feel free to reach out:  
 📧 [juan.voolpe@gmail.com](mailto:juan.voolpe@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/) _(add your link here)_  
+🌐 [LinkedIn]([https://www.linkedin.com/in/juan-volpe-program/)   
