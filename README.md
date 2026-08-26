@@ -31,17 +31,16 @@
 
 ---
 
-## 📚 Academic Highlights
-- 🎓 Advanced **4th year student** in Computer Science  
-- ✅ **50% of finals approved** (average: **10/10 in OOP**)  
+## 🛠️ Knowledge
+- 🎓 Advanced in Computer Science  
 - 🔍 Strong knowledge in **Data Structures & Design Patterns**  
 - 📐 Focused on **Design & Implementation of Solutions**  
 - 🌍 **Technical English proficiency**  
 
 ---
 
-## 🛠️ Professional Skills
-- 🔹 **Full-Stack development** using MVC  
+## 🛠️ Exp. with
+- 🔹 **Full-Stack development** using MVC & Patterns
 - 🔹 **RESTful APIs & Microservices** design and integration  
 - 🔹 **Testing & Refactoring** for maintainable software  
 - 🔹 **Proactive task management & monitoring**  
